@@ -1,6 +1,5 @@
 from model import mode_pipeline
 from fastapi import FastAPI, UploadFile
-from typing import Union
 import io
 from PIL import Image
 
